@@ -1,4 +1,7 @@
 #!/bin/bash
 
-for ((i=0;<50;i++)); do 
-Echo "$i" done
+i=1
+
+while [[ $i -le 50 ]]; do
+	echo "$i"
+done
