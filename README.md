@@ -1,8 +1,8 @@
 # Title: Bash Script 1-50
 
 # Desrciption: 
-who: I am Omar M Torrence
-what: I 
+
+
   # What this Project entails:Creating a GitHub Repo by setting up an account. Along with making a README.md 
 
   # Bash Script: Making a Bash script from 1 to 50.
